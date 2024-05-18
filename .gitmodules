@@ -1,0 +1,6 @@
+[submodule "readerwriterqueue"]
+	path = readerwriterqueue
+	url = git@github.com:augsh/readerwriterqueue.git
+[submodule "concurrentqueue"]
+	path = concurrentqueue
+	url = git@github.com:augsh/concurrentqueue.git
